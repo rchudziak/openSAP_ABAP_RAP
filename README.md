@@ -1,7 +1,5 @@
 # openSAP_ABAP_RAP
-openSAP ABAP RESTful Application Programming Model Exercises
-
-Exercises solutions of the openSAP Course
+Exercises solutions of the openSAP Course ABAP RESTful Application Programming Model
 
 Exercises: https://github.com/SAP-samples/abap-platform-rap-opensap
 
